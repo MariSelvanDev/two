@@ -3,7 +3,7 @@ var app= express();
 
 
 app.get("/",function(req,res){
-res.send("This is my first aws project");
+res.send("This is my first fucking project");
 });
 
 var port = process.env.port || 80
